@@ -8,6 +8,6 @@ Following directories are generated when running the WebApi project.
 
 Exposed models like in '/WebApi/WebApi/Controllers/WeatherForeCastController.cs' will be added to 'models' directory.
 
-To try it out: Add new Controllers/Models to de WebApi project and run.
+To try it out: Add new Controllers/Models to the WebApi project and run.
 
-To modify configuration you can modify: '/WebApi/WebApi/TypeScriptGeneration.cs'.
+Configuration: '/WebApi/WebApi/TypeScriptGeneration.cs'.
