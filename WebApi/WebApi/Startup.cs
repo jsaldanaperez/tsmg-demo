@@ -24,7 +24,7 @@ namespace WebApi
             services.AddCors(options =>
             {
                 options.AddPolicy(WebsitePolicyName,
-                    builder => { builder.WithOrigins("http://localhost:4200"); });
+                    builder => { builder.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod(); });
             });
             
             TypeScriptGeneration.Execute();
