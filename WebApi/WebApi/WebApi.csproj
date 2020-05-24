@@ -5,7 +5,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="TypeScriptModelsGenerator.HttpServices" Version="1.0.0" />
+      <PackageReference Include="TypeScriptModelsGenerator" Version="1.1.9" />
+      <PackageReference Include="TypeScriptModelsGenerator.HttpServices" Version="1.0.1" />
     </ItemGroup>
 
 </Project>
