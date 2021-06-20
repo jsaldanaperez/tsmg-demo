@@ -1,5 +1,9 @@
 # tsmg-demo
 
+www.typescriptmodelsgenerator.com
+
+## Demo
+
 Demo project to generate TypeScript models and http-services from a Microsoft.AspNetCore Web API.
 
 Following directories are generated when running the WebApi project.
